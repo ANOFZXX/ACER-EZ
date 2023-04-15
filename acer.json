@@ -34,7 +34,7 @@
       }
 ,
 {
-         "name": "AIS-TH-02-FREE",
+         "name": "AIS-TH-03-FREE",
          "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freeth-ais.ovpn"
       }
 ,
@@ -100,6 +100,6 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":3
+   "version":4
 }
  
