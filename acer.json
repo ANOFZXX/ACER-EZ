@@ -4,18 +4,93 @@
 
 
 {
-         "name": "AIS-TH-FREE",
+         "name": "AIS-TH-01-FREE",
          "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freeth-ais.ovpn"
       }
 ,
 {
-         "name": "DTAC-TH-FREE",
+         "name": "DTAC-TH-01-FREE",
          "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freeth-dtac.ovpn"
       }
 ,
 {
-         "name": "TRUE-TH-FREE",
+         "name": "TRUE-TH-01-FREE",
          "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freeth-true.ovpn"
+      }
+,
+{
+         "name": "AIS-TH-02-FREE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freeth-ais.ovpn"
+      }
+,
+{
+         "name": "DTAC-TH-02-FREE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freeth-dtac.ovpn"
+      }
+,
+{
+         "name": "TRUE-TH-02-FREE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freeth-true.ovpn"
+      }
+,
+{
+         "name": "AIS-TH-02-FREE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freeth-ais.ovpn"
+      }
+,
+{
+         "name": "DTAC-TH-03-FREE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freeth-dtac.ovpn"
+      }
+,
+{
+         "name": "TRUE-TH-03-FREE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freeth-true.ovpn"
+      }
+,
+{
+         "name": "AIS-SG-01-FREE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freesg-ais.ovpn"
+      }
+,
+{
+         "name": "DTAC-SG-01-FREE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freesg-dtac.ovpn"
+      }
+,
+{
+         "name": "TRUE-SG-01-FREE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freesg-true.ovpn"
+      }
+,
+{
+         "name": "AIS-SG-02-FREE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freesg-ais.ovpn"
+      }
+,
+{
+         "name": "DTAC-SG-02-FREE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freesg-dtac.ovpn"
+      }
+,
+{
+         "name": "TRUE-SG-02-FREE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freesg-true.ovpn"
+      }
+,
+{
+         "name": "AIS-SG-03-FREE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freesg-ais.ovpn"
+      }
+,
+{
+         "name": "DTAC-SG-03-FREE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freesg-dtac.ovpn"
+      }
+,
+{
+         "name": "TRUE-SG-03-FREE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/ACER-EZ/main/freesg-true.ovpn"
       }
 
 
@@ -25,6 +100,6 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":2
+   "version":3
 }
  
